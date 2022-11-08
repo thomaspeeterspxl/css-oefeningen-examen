@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #ffff;
+    font-family: Arial,sans-serif;
+    font-size: 25px;
+}
+main ul li{
+    color: white;
+
+}
+main ul li a:hover{
+    color: red;
+}
+main ol li{
+    color: white;
+}
+main ol li a:hover {
+    color: red;
+}
+main img{
+    border: 5px red solid;
+    margin-bottom: 50px;
+    height: 250px;
+    width: 250px;
+}
+iframe{
+    border: 5px red solid;
+}

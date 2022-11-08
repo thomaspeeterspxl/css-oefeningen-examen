@@ -1,0 +1,21 @@
+*{
+    background-color: #151c28;
+}
+main section{
+    border: 3px solid #ffe14f;
+    border-radius: 10px;
+    background-color: #151c28;
+    width: 500px;
+    padding: 20px;
+    margin: 10px auto;
+}
+h1 span{
+  color: #ffe14f;
+}
+h1{
+    color: #8daec6;
+    text-align: center;
+}
+main section img{
+    width:150px;
+}
